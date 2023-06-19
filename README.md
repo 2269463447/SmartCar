@@ -82,6 +82,8 @@
 
 #### 项目图片
 
-<img src="/Users/zhaoxianbin/Desktop/SmartCar/项目图片1.png" alt="项目图片1" style="zoom:67%;" />
+<img src="项目图片1.png" alt="项目图片1" style="zoom:67%;" />
 
-<img src="/Users/zhaoxianbin/Desktop/SmartCar/项目图片2.png" alt="项目图片2" style="zoom:67%;" />
+
+
+<img src="项目图片2.png" alt="项目图片2" style="zoom:67%;" />
