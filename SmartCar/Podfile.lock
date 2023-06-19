@@ -1,0 +1,40 @@
+PODS:
+  - AEAlertView (2.3.5)
+  - Alamofire (5.6.4)
+  - CLTypingLabel (0.4.0)
+  - LTMorphingLabel (0.9.3)
+  - RAMAnimatedTabBarController (5.2.0)
+  - SwiftCharts (0.6.5)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AEAlertView
+  - Alamofire
+  - CLTypingLabel
+  - LTMorphingLabel
+  - RAMAnimatedTabBarController
+  - SwiftCharts (~> 0.6.5)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - AEAlertView
+    - Alamofire
+    - CLTypingLabel
+    - LTMorphingLabel
+    - RAMAnimatedTabBarController
+    - SwiftCharts
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AEAlertView: 734ac91ad28d3300de0a395a9bb9e8b6ebc0fa31
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  CLTypingLabel: 95a7d1faf7e3d1d952cd11cb0491d17d80c50934
+  LTMorphingLabel: f2b256e4fe665aac27f0d0e8ccdcd79590f0cd70
+  RAMAnimatedTabBarController: 6863a386e7ae2ab227cd60aa73ab8ff56cdacfdd
+  SwiftCharts: 2e755ea292f0b87d3e4b2c1eb5afc080a20cdc15
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 256f6f1977d5b21f37c058d06a7e644975cdad68
+
+COCOAPODS: 1.12.0
